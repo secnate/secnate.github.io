@@ -22,7 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   exploring cybersecurity in an 
   increasingly-interconnected world
 url: https://reshet-net.github.io
-twitter_username: username
+twitter:
+  username: secure_nathan
 github_username: username
 minimal_mistakes_skin: contrast
 search: true
@@ -64,6 +65,10 @@ plugins:
 # Site Logo
 logo: /assets/images/globe.png
 
+# The og_image is used as a fallback default option
+# when sharing a page without a header image
+og_image: /assets/images/default_card.jpg
+
 # Separation Character Used In SEO-Friendly Page Titles
 title_separator: "|"
 
@@ -81,7 +86,7 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/secure_nathan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -112,10 +117,13 @@ defaults:
       # Toggles whether left panel with 
       # author's information is presented
       author_profile: false 
+
+
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
