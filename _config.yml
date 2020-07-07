@@ -61,10 +61,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Defining Default Teaser Image Used In
-# The "Related Posts" Module
-teaser: /assets/images/500x300.jpg
-
 # Site Logo
 logo: /assets/images/globe.png
 
@@ -112,7 +108,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+
+      # Toggles whether left panel with 
+      # author's information is presented
+      author_profile: false 
       read_time: true
       comments: true
       share: true
