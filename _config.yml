@@ -147,3 +147,10 @@ social:
   links:
     - "https://twitter.com/secure_nathan"
     - "https://www.linkedin.com/in/nathan-pavlovsky-83a57a85/"
+
+# Analytics for website
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-171943935-1"
+    anonymize_ip: false #default 
