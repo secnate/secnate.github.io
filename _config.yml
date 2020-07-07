@@ -13,20 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Reshet.net
+subtitle: Security Musings In An Interconnected World
+name: Nathan Pavlovsky
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  Writer, programmer, and hacking afficionado 
+  exploring cybersecurity in an 
+  increasingly-interconnected world
+url: https://reshet-net.github.io
+twitter:
+  username: secure_nathan
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,6 +62,20 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Logo
+logo: /assets/images/globe.png
+
+# The og_image is used as a fallback default option
+# when sharing a page without a header image
+og_image: /assets/images/default_card.jpg
+
+# Separation Character Used In SEO-Friendly Page Titles
+title_separator: "|"
+
+# Navigation Formatting
+breadcrumbs: true # disabled by default
+
+# Descriptive Information About An Author
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
@@ -67,7 +86,7 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/secure_nathan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -94,11 +113,17 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+
+      # Toggles whether left panel with 
+      # author's information is presented
+      author_profile: false 
+
+
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
@@ -113,3 +138,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# Added in the social media information
+social:
+  type: Person
+  name: Nathan Pavlovsky
+  links:
+    - "https://twitter.com/secure_nathan"
+    - "https://www.linkedin.com/in/nathan-pavlovsky-83a57a85/"
