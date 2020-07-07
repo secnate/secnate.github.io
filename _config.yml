@@ -116,7 +116,7 @@ defaults:
 
       # Toggles whether left panel with 
       # author's information is presented
-      author_profile: false 
+      author_profile: true 
 
 
       read_time: true
