@@ -82,9 +82,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Writer and programming geek into cybersecurity. Breaker of things."
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pavlovskynathan3141@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/secure_nathan"
