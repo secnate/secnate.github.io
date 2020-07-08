@@ -108,9 +108,20 @@ defaults:
       author_profile: true 
 
       read_time: true
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+      comments: 
+        provider: "disqus"
+        disqus:
+          shortname: "https-reshet-net-github-io"
+>>>>>>> Stashed changes
 
+=======
+>>>>>>> Stashed changes
       share: true
       related: true
+      comments: true
 
   # _pages
   - scope:
