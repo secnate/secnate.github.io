@@ -108,10 +108,7 @@ defaults:
       author_profile: true 
 
       read_time: true
-      comments: 
-        provider: "disqus"
-        disqus:
-          shortname: "https-reshet-net-github-io"
+      comments: true
 
       share: true
       related: true
@@ -146,3 +143,9 @@ analytics:
   google:
     tracking_id: "UA-171943935-1"
     anonymize_ip: false #default 
+
+# Comments
+comments: 
+  provider: "disqus"
+  disqus:
+    shortname: "https-reshet-net-github-io"
