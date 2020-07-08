@@ -108,7 +108,11 @@ defaults:
       author_profile: true 
 
       read_time: true
-      comments: false
+      comments: 
+        provider: "disqus"
+        disqus:
+          shortname: "https-reshet-net-github-io"
+
       share: true
       related: true
 
