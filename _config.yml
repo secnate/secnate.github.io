@@ -95,12 +95,6 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/secure_nathan"
 
-# Comments
-comments: 
-  provider: "disqus"
-  disqus:
-    shortname: "https-reshet-net-github-io"
-
 defaults:
   # _posts
   - scope:
@@ -114,7 +108,7 @@ defaults:
       author_profile: true 
 
       read_time: true
-      comments: true
+      comments: false
 
       share: true
       related: true
