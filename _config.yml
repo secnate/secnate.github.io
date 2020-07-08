@@ -71,9 +71,10 @@ og_image: /assets/images/default_card.jpg
 
 # Separation Character Used In SEO-Friendly Page Titles
 title_separator: "|"
-
 # Navigation Formatting
-breadcrumbs: true # disabled by default
+breadcrumbs: true
+breadcrumb_home_label: "Home"
+breadcrumb_separator: "/"
 
 # Descriptive Information About An Author
 author:
@@ -107,7 +108,11 @@ defaults:
       author_profile: true 
 
       read_time: true
-      comments: false
+      comments: 
+        provider: "disqus"
+        disqus:
+          shortname: "https-reshet-net-github-io"
+
       share: true
       related: true
 
