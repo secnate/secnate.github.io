@@ -63,11 +63,11 @@ plugins:
   - jekyll-include-cache
 
 # Site Logo
-logo: /assets/images/globe.png
+logo: "assets/images/globe.png"
 
 # The og_image is used as a fallback default option
 # when sharing a page without a header image
-og_image: /assets/images/default_card.jpg
+og_image: "/assets/images/default_card.jpg"
 
 # Separation Character Used In SEO-Friendly Page Titles
 title_separator: "|"
