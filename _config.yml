@@ -61,6 +61,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 # Site Logo
 logo: "assets/images/globe.png"

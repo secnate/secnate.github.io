@@ -6,8 +6,6 @@ categories:
 tags:
   - Jekyll
   - update
-collection:
-  - Collection Two
 ---
 
 # Testing Section One
