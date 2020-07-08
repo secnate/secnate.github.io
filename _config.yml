@@ -113,6 +113,7 @@ defaults:
       toc: true
       toc_label: Table of Contents
       toc_icon: file-alt
+      toc_sticky: true
 
       # Toggles whether left panel with 
       # author's information is presented
