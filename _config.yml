@@ -112,6 +112,11 @@ defaults:
     values:
       layout: single
 
+      # Default table of contents
+      toc: true
+      toc_label: Table of Contents
+      toc_icon: file-alt
+
       # Toggles whether left panel with 
       # author's information is presented
       author_profile: true 
