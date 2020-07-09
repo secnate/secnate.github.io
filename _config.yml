@@ -66,10 +66,6 @@ plugins:
 # Site Logo
 logo: "assets/images/globe.png"
 
-# The og_image is used as a fallback default option
-# when sharing a page without a header image
-og_image: "/assets/images/default_card.jpg"
-
 # Separation Character Used In SEO-Friendly Page Titles
 title_separator: "|"
 # Navigation Formatting
@@ -129,6 +125,15 @@ defaults:
       layout: single
       author_profile: true
 
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 category_archive:
   type: liquid
   path: /categories/
@@ -151,3 +156,9 @@ analytics:
   google:
     tracking_id: "UA-171943935-1"
     anonymize_ip: false #default 
+
+# Information about collections
+collections:
+  portfolio: 
+    output: true
+    permalink: /:collection/:path/
