@@ -61,13 +61,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 # Site Logo
 logo: "assets/images/globe.png"
-
-# The og_image is used as a fallback default option
-# when sharing a page without a header image
-og_image: "/assets/images/default_card.jpg"
 
 # Separation Character Used In SEO-Friendly Page Titles
 title_separator: "|"
@@ -82,9 +79,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Writer and programming geek into cybersecurity. Breaker of things."
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pavlovskynathan3141@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/secure_nathan"
@@ -99,6 +93,7 @@ footer:
       url: "https://twitter.com/secure_nathan"
 
 defaults:
+
   # _posts
   - scope:
       path: ""
@@ -110,6 +105,7 @@ defaults:
       toc: true
       toc_label: Table of Contents
       toc_icon: file-alt
+      toc_sticky: true
 
       # Toggles whether left panel with 
       # author's information is presented
@@ -128,6 +124,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -151,3 +156,9 @@ analytics:
   google:
     tracking_id: "UA-171943935-1"
     anonymize_ip: false #default 
+
+# Information about collections
+collections:
+  portfolio: 
+    output: true
+    permalink: /:collection/:path/

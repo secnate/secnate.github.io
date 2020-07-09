@@ -7,8 +7,6 @@ tags:
   - Post Formats
   - readability
   - standard
-collection:
-  - Collection One
 ---
 
 This post has been updated and should show a modified date if used in a layout.
