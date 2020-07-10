@@ -65,6 +65,8 @@ plugins:
 
 # Site Logo
 logo: "assets/images/globe.png"
+og_image: "/assets/images/default_card.jpg"
+
 
 # Separation Character Used In SEO-Friendly Page Titles
 title_separator: "|"
@@ -117,9 +119,6 @@ defaults:
       share: true
       related: true
 
-      header:
-        og_image: "/assets/images/default_card.jpg"
-
   # _pages
   - scope:
       path: "_pages"
@@ -127,9 +126,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-      header:
-        og_image: "/assets/images/default_card.jpg"
 
   # _portfolio
   - scope:
@@ -140,9 +136,6 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
-      header:
-        og_image: "/assets/images/default_card.jpg"
 
 category_archive:
   type: liquid
