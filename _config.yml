@@ -117,7 +117,8 @@ defaults:
       share: true
       related: true
 
-      og_image: "/assets/images/default_card.jpg"
+      header:
+        og_image: "/assets/images/default_card.jpg"
 
   # _pages
   - scope:
@@ -127,7 +128,8 @@ defaults:
       layout: single
       author_profile: true
 
-      og_image: "/assets/images/default_card.jpg"
+      header:
+        og_image: "/assets/images/default_card.jpg"
 
   # _portfolio
   - scope:
@@ -139,7 +141,8 @@ defaults:
       author_profile: false
       share: true
 
-      og_image: "/assets/images/default_card.jpg"
+      header:
+        og_image: "/assets/images/default_card.jpg"
 
 category_archive:
   type: liquid
