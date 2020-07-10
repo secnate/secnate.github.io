@@ -117,6 +117,8 @@ defaults:
       share: true
       related: true
 
+      og_image: "/assets/images/default_card.jpg"
+
   # _pages
   - scope:
       path: "_pages"
@@ -125,14 +127,19 @@ defaults:
       layout: single
       author_profile: true
 
+      og_image: "/assets/images/default_card.jpg"
+
   # _portfolio
   - scope:
       path: ""
       type: portfolio
+
     values:
       layout: single
       author_profile: false
       share: true
+
+      og_image: "/assets/images/default_card.jpg"
 
 category_archive:
   type: liquid
