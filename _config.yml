@@ -41,7 +41,8 @@ timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_t
 # Commenting functionality
 comments:
   provider: "disqus"
-  shortname: "https-secnate-github-io"
+  disqus:
+    shortname: "https-secnate-github-io"
 
 include:
   - _pages
@@ -141,7 +142,7 @@ defaults:
 
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
 
       comments: true
