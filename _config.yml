@@ -39,7 +39,6 @@ paginate_path: /page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Commenting functionality
-baseurl: ""
 comments:
   provider: "disqus"
   shortname: "https-secnate-github-io"
