@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Reshet.net
+title: SecNate
 subtitle: Security Musings In An Interconnected World
 name: Nathan Pavlovsky
 email:
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Writer, programmer, and hacking afficionado 
   exploring cybersecurity in an 
   increasingly-interconnected world
-url: https://reshet-net.github.io
+url: https://secnate.github.io
 twitter:
   username: secure_nathan
 github_username: username
