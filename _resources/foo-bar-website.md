@@ -13,6 +13,7 @@ gallery:
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 
+collection: resources
 author_profile: true
 ---
 
