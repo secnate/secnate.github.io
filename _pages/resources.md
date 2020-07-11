@@ -2,7 +2,7 @@
 title: Resources
 layout: collection
 permalink: /resources/
-collection: portfolio
+collection: resources
 entries_layout: grid
 classes: wide
 ---

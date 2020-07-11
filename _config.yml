@@ -46,6 +46,7 @@ comments:
 
 include:
   - _pages
+  - _resources
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -137,8 +138,8 @@ defaults:
 
   # _portfolio
   - scope:
-      path: ""
-      type: portfolio
+      path: "_resources"
+      type: resources
 
     values:
       layout: single
@@ -172,6 +173,6 @@ analytics:
 
 # Information about collections
 collections:
-  portfolio: 
+  resources: 
     output: true
     permalink: /:collection/:path/
