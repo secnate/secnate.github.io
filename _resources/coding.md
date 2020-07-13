@@ -15,13 +15,13 @@ toc_sticky: true
 
 While many resources exist for learning programming, I recommend that beginners use books with extensive and challenging end-of-chapter exercises. 
 
-Why? I find that online walkthroughs do not teach concepts systematically, leaving gaps in conceptual knowledge. Furthermore, they typicaly lack technical depth and extensive, well-designed exercises for cementing skills. Concepts aren't mastered by typing a pre-prepared demonstration program with ease, but by independently creating a program that uses them. In addition to providing a solid foundation, these books can serve later as solid references!
+Why? I find that online walkthroughs do not teach concepts systematically, leaving gaps in conceptual knowledge. Furthermore, they typically lack technical depth and extensive, well-designed exercises for cementing skills. Concepts aren't mastered by typing a pre-prepared demonstration program with ease, but by independently creating a program that uses them. In addition to providing a solid foundation, these books can serve later as solid references!
 {: style="text-align: justify;"}
 
-Once can't run before learning to walk. Focus on the fundamentals. Do the exercises. 
+One can't run before learning to walk. Focus on the fundamentals. Do the exercises. 
 {: style="text-align: justify;"}
 
-This list _will not_ cover all the programming languages and tools one might use in InfoSec. That is impossible. Instead, it will build a foundation that allows one to easily pivot to new libraries, frameworks, or languages needed for their InfoSec goals.
+This list _will not_ cover all the languages and tools one might use in InfoSec. That is impossible. Instead, it will build a foundation that allows one to easily pivot to new libraries, frameworks, or languages needed for their InfoSec goals.
 {: style="text-align: justify;"}
 
 ## Python
@@ -31,7 +31,7 @@ This list _will not_ cover all the programming languages and tools one might use
 
 These can be supplemented with online lecture videos, if one prefers to learn theory that way. There are plenty out there. I'm especially fond of [MIT OpenCourseware.](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
-There are also security-specific Python books. I listed them separately; while beginners can complete them, they are best-suited for those with prior Python knowledge. I _do not_ recommend starting to learn Python with them as they do not have extensive exercises for practice. However, they provide fantastic examples of Python's applications:
+There are also security-specific books. I listed them separately; while beginners can complete them, they are best-suited for those with prior Python knowledge. I _do not_ recommend starting to learn Python with them as they do not have extensive exercises for practice. However, they provide fantastic examples of Python's applications:
 {: style="text-align: justify;"}
 
 - [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers, and Security Engineers](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
@@ -45,15 +45,15 @@ There are also security-specific Python books. I listed them separately; while b
 C++ was first released in 1998 as an object-oriented extension of C and has [undergone revisions](https://www.geeksforgeeks.org/history-of-c/) since. The next major update was formalized in February 2020 and is due to be published soon.
 {: style="text-align: justify;"} 
 
-Such changes have their effects. For starters, learning resources may not cover the latest version's capabilities. And even if updated book editions are published shortly after the latest version's released, they are often _ridiculously overpriced._
+Such changes have their effects. For starters, learning resources may not cover the latest version's capabilities. And even if updated book editions are published shortly after the latest version's release, they are often _ridiculously overpriced._
 {: style="text-align: justify;"} 
 
 Beginners should not worry about language versions for two main reasons:
 
 1. C++ is backwards-compatible. A C++14 compiler will process C++98 code without any issues.
-2. The newely added features cover advanced functionality and syntax cases. Unless you are a highly-experienced C++ programmer, you will most likely never see nor use them.
+2. The newely added features cover advanced functionality and syntax cases. Unless you are a highly-experienced C++ programmer, you will most likely never see nor need them.
 
-Hence, learning an earlier version is fine. I recommend that learners learn _at least_ C++11. This will allow them to learn its traditional functionality and to get an understanding of the direction C++ is going. If there are resources for later versions, even better!
+Hence, learning an earlier version is fine. I recommend that learners learn _at least_ C++11 in order to learn its traditional functionality and to get an understanding of where the language is going. If resources are available for later versions, even better!
 {: style="text-align: justify;"}
 
 These considerations make me recommend the following:
