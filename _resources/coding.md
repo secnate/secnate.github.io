@@ -76,7 +76,7 @@ My suggestions:
 
 ## Web Development
 
-Web applications can be extremely complex, with advanced frontend and backend functionality. First learn how the frontend works. Backends are built with database and API tools and frameworks that can be learned after the a basic programming skillset is developed.
+Web applications can be extremely complex, with advanced frontend and backend functionality. First learn how the frontend works. Backends are built with database and API tools and frameworks that can be learned after developing a basic programming skillset.
 {: style="text-align: justify;"}
 
 HTML lists a website's bare bones, CSS formats it, and JavaScript makes its elements interactive. Learn the basics and you'll be well-positioned.
