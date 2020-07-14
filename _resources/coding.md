@@ -85,7 +85,7 @@ HTML lists a website's bare bones, CSS formats it, and JavaScript makes its elem
 - [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 4th edition](https://www.amazon.com/gp/product/1449319270/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449319270&linkCode=as2&tag=sixrevi-20)
 - [Web Design with HTML, CSS, JavaScript and jQuery Set, First Edition](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?dchild=1&keywords=html+and+css+book&qid=1594687556&sr=8-3)
 
-I am also a big fan of the [w3schools](https://www.w3schools.com/) web development page. Unlike many programming websites I have seen, it is so well-laid out that it can serve as documentation for web developers.
+I am also a big fan of the [w3schools](https://www.w3schools.com/) web development page. Unlike many programming websites I have seen, it is so well-laid out that it can serve as stand-alone documentation.
 {: style="text-align: justify;"}
 
 ***
