@@ -1,5 +1,5 @@
 ---
-title: "Coding Resources"
+title: "Coding"
 excerpt: ""
 
 collection: resources
@@ -31,7 +31,7 @@ This list _will not_ cover all the languages and tools one might use in InfoSec.
 
 These can be supplemented with online lecture videos, if one prefers to learn theory that way. There are plenty out there. I'm especially fond of [MIT OpenCourseware 6.0001.](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
-There are also security-specific books. I listed them separately; while beginners can complete them, they are best-suited for those with prior Python knowledge. I _do not_ recommend starting to learn Python with them as they do not have extensive exercises for practice. However, they provide fantastic examples of Python's applications:
+There are also security-specific books. I listed them separately; while beginners can complete them, they are best-suited for those with prior Python knowledge. I _do not_ recommend starting with them as they do not have extensive exercises for practice. However, they provide fantastic examples of Python's applications:
 {: style="text-align: justify;"}
 
 - [Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers, and Security Engineers](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
