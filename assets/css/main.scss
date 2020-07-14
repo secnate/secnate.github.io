@@ -4,7 +4,7 @@
 @import "minimal-mistakes"; // main partials
 
 .masthead {
-  position: fixed;
+  position: sticky;
   top: 0;
   width: 100%;
   background-color: white;
