@@ -71,6 +71,6 @@ To secure them, one must first know how they work. First learn the frontend. How
 
 ***
 
-This path should fulfill the goals of helping learners master programming concepts in a friendly fashion while equipping them with the skills they need to easily pivot into any InfoSec or tech domain of their choosing. I hope this helps.
+This path should fulfill the goals of helping learners master programming concepts in a friendly fashion while equipping them with the skills they need to easily pivot into any InfoSec or tech domain of their choosing.
 {: style="text-align: justify;"}
 
