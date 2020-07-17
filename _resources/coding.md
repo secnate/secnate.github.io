@@ -21,7 +21,7 @@ Why? I find that online walkthroughs do not teach concepts systematically, leavi
 One can't run before learning to walk. Focus on the fundamentals. Do the exercises. 
 {: style="text-align: justify;"}
 
-This list _will not_ cover all the languages and tools one might use in InfoSec. That is impossible. Instead, it will build a foundation that allows one to easily pivot to new libraries, frameworks, or languages needed for their InfoSec goals.
+This list _will not_ cover all the languages and tools one might use in InfoSec. That is impossible. Instead, it will build a foundation that allows one to easily pivot to new libraries, frameworks, or languages needed for their InfoSec goals. I explained the reasoning for it in [another post](https://secnate.github.io/advice/learning-to-code-for-infosec/).
 {: style="text-align: justify;"}
 
 ## Python
