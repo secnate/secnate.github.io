@@ -90,4 +90,5 @@ I am also a big fan of the [w3schools](https://www.w3schools.com/) web developme
 
 ***
 
-Hope this helps!
+This should be enough to get you started. I wish you luck on your programming journey.
+{: style="text-align: justify;"}
