@@ -74,7 +74,7 @@ My suggestions:
 - [Programming from the Ground Up (x86 Architecture)](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1616100648/ref=sr_1_1?dchild=1&keywords=programming+from+the+ground+up&qid=1594682302&sr=8-1) 
 - [ARM Assembly Language: Fundamentals and Techniques, 2nd Edition](https://www.amazon.com/ARM-Assembly-Language-Fundamentals-Techniques-ebook/dp/B00OGLE6CW/ref=sr_1_1?dchild=1&keywords=ARM+Assembly+Language%3A+Fundamentals+and+Techniques+2nd+Edition&qid=1594604793&s=books&sr=1-1)
 
-## Web Development
+## Web Design
 
 Web applications can be extremely complex, with advanced frontend and backend functionality. First learn how the frontend works. Backends are built with database and API tools and frameworks that can be learned after developing a basic programming skillset.
 {: style="text-align: justify;"}

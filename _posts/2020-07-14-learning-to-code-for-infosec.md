@@ -61,8 +61,16 @@ All programs get converted by a [compiler](https://en.wikipedia.org/wiki/Compile
 Because compiling code from a higher-level language to assembly is an irreversible process, forensics and malware analysts read binaries dissembled into Assembly. Exploit devlopers, penetration testers, and security researchers also use it to uncover vulnerabilities and to craft and modify payloads attacking them.
 {: style="text-align: justify;"}
 
+# Web Design
+
+The world is increasingly moving to conduct personal and business activities over the Internet and the skyrocketing number of IoT devices usually have a web interface for configuration or interaction. They are increasingly-serious attack vectors capable of compromising devices and organizations. The need for pentesting them and securely designing them has never been greater. 
+{: style="text-align: justify;"}
+
+To secure them, one must first know how they work. First learn the frontend. How elements get listed, formatted, and are made interactive. Backends are built with specific database and API tools and frameworks that can be learned after developing a basic skillset. Learn the basics and you'll be on your merry way.
+{: style="text-align: justify;"}
+
 ***
 
-This path should fulfill the goals of helping learners master programming concepts in a learner-friendly fashion while equipping them with the skills they need to pivot into any InfoSec (or even tech) domain of their choosing. I hope this helps.
+This path should fulfill the goals of helping learners master programming concepts in a learner-friendly fashion while equipping them with the skills they need to easily pivot into any InfoSec or tech domain of their choosing. I hope this helps.
 {: style="text-align: justify;"}
 
