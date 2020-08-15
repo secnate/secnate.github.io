@@ -7,7 +7,7 @@ tags:
   - Coding
 
 toc: false
----
+--- 
 
 <img src="/assets/images/post_images/08-11-2020/fpga.jpg">
 
