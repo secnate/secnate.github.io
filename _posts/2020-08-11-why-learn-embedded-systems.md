@@ -14,7 +14,7 @@ toc: false
 The last semester of my computer science bachelors, I had room for an extra class and took _Embedded Systems._ 
 {: style="text-align: justify;"} 
 
-It was fun. It introduced me to the other side of computers, which I didn't learn while tinkering with programming written in highly abstracted languages. Over the course of many projects, we configured FGPA boards and programmed them while accounting for memory and processing constraints. For the first time in my life _hardware mattered_.
+It was fun. It introduced me to the other side of computers, which I didn't learn while tinkering with highly abstracted languages. Over the course of many projects, we configured FGPA boards and programmed them while accounting for memory and processing constraints. For the first time in my life _hardware mattered_.
 {: style="text-align: justify;"}
 
 I believe every computer science student and software engineer would benefit from learning embedded systems, even if they won't pursue them as a career. Here's why:
