@@ -36,7 +36,7 @@ When starting, use it to learn programming basics. What arrays, linked lists, qu
 
 # C++
 
-C++ was released in 1998 as an object-oriented extension of C and has become widely used since. Its backwards compatability with C means that one learns two languages for the price of one!
+C++ was released in 1985 as an object-oriented extension of C and has become widely used since. Its backwards compatability with C means that one learns two languages for the price of one!
 {: style="text-align: justify;"}
 
 C and C++ are
