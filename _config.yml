@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   increasingly-interconnected world
 url: https://secnate.github.io
 twitter:
-  username: secure_nathan
+  username: secnate
 github_username: username
 minimal_mistakes_skin: contrast
 search: true
@@ -90,7 +90,7 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/secure_nathan"
+      url: "https://twitter.com/secnate"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nathan-pavlovsky-83a57a85/"
@@ -99,7 +99,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/secure_nathan"
+      url: "https://twitter.com/secnate"
 
 defaults:
 
@@ -161,7 +161,7 @@ social:
   type: Person
   name: Nathan Pavlovsky
   links:
-    - "https://twitter.com/secure_nathan"
+    - "https://twitter.com/secnate"
     - "https://www.linkedin.com/in/nathan-pavlovsky-83a57a85/"
 
 # Analytics for website
