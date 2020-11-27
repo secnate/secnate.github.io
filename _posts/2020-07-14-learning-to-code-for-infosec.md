@@ -2,7 +2,7 @@
 title: "Learning to Code For Infosec"
 date: 2020-07-14T12:34:30-04:00
 categories:
-  - Advice
+  - Coding
 tags:
   - Advice
   - Coding
