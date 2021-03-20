@@ -42,7 +42,7 @@ There are also security-specific books. I listed them separately; while beginner
 
 ## C++
 
-C++ was first released in 1998 as an object-oriented extension of C and has [undergone revisions](https://www.geeksforgeeks.org/history-of-c/) since. The next major update was formalized in February 2020 and is due to be published soon.
+C++ was first released in 1998 as an object-oriented extension of C and has [undergone revisions](https://www.geeksforgeeks.org/history-of-c/) since.
 {: style="text-align: justify;"} 
 
 Such changes have their effects. For starters, learning resources may not cover the latest version's capabilities. And even if updated book editions are published shortly after the latest version's release, they are often _ridiculously overpriced._
@@ -53,7 +53,7 @@ Beginners should not worry about language versions for two main reasons:
 1. C++ is backwards-compatible. A C++14 compiler will process C++98 code without any issues.
 2. The newely added features cover advanced functionality and syntax cases. Unless you are a highly-experienced C++ programmer, you will most likely never see nor need them.
 
-Hence, learning an earlier version is fine. I recommend that one learn _at least_ C++11 in order to learn its traditional functionality and to get an understanding of the language's trajectory. If resources are available for later versions, even better!
+Hence, learning an earlier version is fine. I recommend that one learn _at least_ C++11 (the largest update to happen since the 2003 standard) in order to learn its traditional functionality and to get an understanding of the language's trajectory. If resources are available for later versions, even better!
 {: style="text-align: justify;"}
 
 This is why I recommend
