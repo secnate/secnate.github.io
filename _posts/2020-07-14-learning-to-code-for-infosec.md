@@ -4,7 +4,7 @@ date: 2020-07-14T12:34:30-04:00
 categories:
   - Coding
 tags:
-  - Advice
+  - Tips
   - Coding
 ---
 
