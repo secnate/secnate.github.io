@@ -12,6 +12,10 @@ tags:
 This is the first of a series of writeups for the [Phoenix challenges](https://exploit.education/phoenix/) and explains how those wanting to follow along can get set up. While the binaries are available for the AMD64, ARM64, MIPS64EL, and PPC64EL architectures, my solutions will use the amd64 architecture out of personal convenience. This is because the Ubuntu 64 VM I used in the past for CTF challenges supports it.
 {: style="text-align: justify;"} 
 
+<div style="text-align:center">
+  <img src="/assets/images/post_images/05-15-2022/phoenix.png">
+</div>
+
 # What Is Phoenix?
 Phoenix is _Exploit.Education’s_ next generation of hacking challenges for teaching “basic memory corruption issues such as buffer overflows, format strings and heap exploitation under \[an\] ‘old-style’ Linux system that does not have any form of modern exploit mitigation systems enabled."[^1] It is the replacement for [Protostar](https://exploit.education/protostar/), the original challenge suite.
 {: style="text-align: justify;"} 
