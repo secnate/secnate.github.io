@@ -13,7 +13,7 @@ This is the first of a series of writeups for the [Phoenix challenges](https://e
 {: style="text-align: justify;"} 
 
 <div style="text-align:center">
-  <img src="/assets/images/post_images/05-15-2022/phoenix.png">
+  <img src="/assets/images/post_images/Phoenix/phoenix.png">
 </div>
 
 # What Is Phoenix?
