@@ -14,7 +14,7 @@ tags:
 </div>
 
 # The Challenge
-The challenge’s description and source code are located [here](https://exploit.education/phoenix/stack-zero/). It and all other Phoenix binaries are located in the __/opt/phoenix/amd64__ directory. A [previous blog post](https://secnate.github.io/ctf/phoenix/phoenix-challenges-setup/) describes how to set up the Virtual Machine for these challenges, if that hasn't been done already.
+The challenge’s description and source code are located [here](https://exploit.education/phoenix/stack-zero/). It and all other Phoenix binaries are located in the __/opt/phoenix/amd64__ directory. A [previous blog post](https://secnate.github.io/ctf/phoenix/phoenix-setup/) describes how to set up the Virtual Machine for these challenges, if that hasn't been done already.
 {: style="text-align: justify;"} 
 
 # Objective
