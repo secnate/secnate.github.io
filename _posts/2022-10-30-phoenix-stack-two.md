@@ -38,11 +38,11 @@ We know that like the _Stack One_ challenge, the _Stack Two_ file has
 {: style="text-align: justify;"}
 
 # Objective
-Looking at *Stack Two’s* C code, we see the **changeme** variable stored in the **locals** struct is initialized to 0. The goal is to tamper with its value and make its value equal to **0x0d0a090a** to print the desired statement.
+Looking at *Stack Two’s* C code, we see the **changeme** variable stored in the **locals** struct is initialized to 0. The goal is to tamper with its value and make it equal to **0x0d0a090a** for the desired statement to be printed.
 {: style="text-align: justify;"}
 
 # Related Concepts
-It is necessary to understand how Stack memory works. I wrote a lengthy explanation in the [writeup for the Phoenix Stack Zero](https://secnate.github.io/ctf/phoenix/phoenix-stack-zero/), which one can read if interested.
+It is necessary to understand how Stack memory works. I wrote a lengthy explanation in the [writeup for the Phoenix Stack Zero challenge](https://secnate.github.io/ctf/phoenix/phoenix-stack-zero/), which one can read if interested.
 {: style="text-align: justify;"}
 
 It is also necessary to understand what *environment variables* are. They are variables inside a computer system’s execution environment that can configure/affect processes or programs that are currently ongoing or are about to be executed.
