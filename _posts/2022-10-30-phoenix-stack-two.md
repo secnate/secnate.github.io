@@ -103,7 +103,7 @@ Controlling environment variables’ values with the **env={\<data\>}** dictiona
 If there is no such **env** dictionary in Pwntools’ process-launching command, the initialized terminal process inherits the original executing environment’s environment variables.[^4] Many CTF developers use this fact to throw off players who forget to manually control the environment variables in the exploit-executing environment. The challenge-hosting machines are configured to have different environment variables initialized. Some are even built to have different environment variables initialized *each time* a new program is run. Crafting exploits attacking shifting memory locations is very difficult, if nigh impossible.
 {: style="text-align: justify;"}
 
-> Pro Tip: Always control the values of a launched process’ environment variables with the **env** dictionary! If None are needed, initialize processes launched in Pwntools scripts with **env={}**
+> Pro Tip: Always control the values of a launched process’ environment variables with the **env** dictionary! If none are needed, initialize processes launched in Pwntools scripts with **env={}**
 
 O.K. I created the basic exploit and passed it in through the *ExploitEducation* environment variable. The *stack-two* execution environment has a stable stack since I controlled the process environment variable's length and value in the stack. The next step was to test whether the **0xdeadbeef** completely overwrote the **changeme** variable with a conveniently-included printout:
 {: style="text-align: justify;"}
