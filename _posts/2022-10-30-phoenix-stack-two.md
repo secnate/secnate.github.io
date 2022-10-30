@@ -91,7 +91,7 @@ p = process(["stack-two"], env={ "ExploitEducation" : payload }, cwd="/opt/phoen
 Notice the `env={"ExploitEducation":payload}`. When Pwntools creates a new terminal process for launching the stack-two binary, the **env** dictionary specifies the *ExploitEducation* environment variable’s value initialized upon its launch. Since the **env** dictionary has no other entries, no other environment variables are initialized. *ExploitEducation* is a global environment variable since the *stack-two* program uses it when executing.
 {: style="text-align: justify;"} 
 
-Controlling environment variables’ values with the **env={\<data\>}** dictionary is important in the exploit development and stabilization process. This is because environmental variables are found in the stack’s bottom, with their lengths affecting the locations of function-specific stack within available memory regions.
+Controlling environment variables’ values with the **env={\<data\>}** dictionary is important in the exploit development and stabilization process. This is because environmental variables are found in the stack’s bottom, with their lengths affecting the locations of function-specific stack data within available memory regions.
 {: style="text-align: justify;"}
 
 <br/>
