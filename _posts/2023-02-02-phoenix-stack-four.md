@@ -358,7 +358,7 @@ To eliminate such a bug, I would urge developers to dump memory insecure languag
 If there is no choice but to use C, the [gets()](https://www.tutorialspoint.com/c_standard_library/c_function_gets.htm) function needs to end up on the dustbin of history. Use [fgets()](https://cplusplus.com/reference/cstdio/fgets/) instead. Previous *Phoenix Stack* challenges explain in detail why it is preferable.
 {: style="text-align: justify;"}
 
-The source code’s gets(locals.buffer); line should thus be
+The source code’s gets(buffer); line should thus be
 {: style="text-align: justify;"}
 ```
 fgets(buffer, 64, stdin);
